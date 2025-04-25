@@ -270,8 +270,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ![WhatsApp Image 2025-04-25 at 14 05 25_1b28f649](https://github.com/user-attachments/assets/d6b26755-85fd-4b8d-8a01-7d6d9d862df6)
 
-## layout of the circuit 
-![IMG20250425140634 1](https://github.com/user-attachments/assets/edc1f82d-d46e-4e62-96b2-981a1499fc70)
+## layout of the circuit :
+![image](https://github.com/user-attachments/assets/e1180b59-6222-48c7-8f48-fa08199feb9c)
+
  
  
 ## Result :
